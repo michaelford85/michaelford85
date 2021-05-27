@@ -10,7 +10,7 @@
 - 🏢 I'm currently working at **Red Hat**
 - 🌱 Learning all about **Kubernetes and Cloud-native tech**
 - ⚡️ I love Kettlebelling, BBQ, and Coffee.
-- ✔️ You can see my body of work (talks, blog entries, projects) [here](https://github.com/michaelford85/my-stuff).
+- ✔️ You can see my body of work (talks, blog entries, projects) [here](https://github.com/michaelford85/my-work).
 
 
 <img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/michaelford85?style=social">
