@@ -6,19 +6,19 @@
 
 <p align="center">
   <a href="mailto:michael@mford.io">
-    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
+    <img src="https://img.icons8.com/metro/30/4a90e2/email.png"/>
   </a>
   <a href= "https://github.com/michaelford85/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+    <img src="https://img.icons8.com/metro/30/4a90e2/github.png"/>
   </a>
   <a href= "https://www.linkedin.com/in/maford/">
     <img src="https://img.icons8.com/color/40/000000/linkedin.png"/>
   </a>
   <a href= "https://twitter.com/michaelford85">
-    <img src="https://img.icons8.com/ios/30/000000/twitter--v1.png"/>
+    <img src="https://img.icons8.com/fluent/30/000000/twitter.png"/>
   </a>
   <a href= "https://mford.io">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
+    <img src="https://img.icons8.com/color/30/000000/domain--v1.png"/>
   </a>
 </p>
 <!--
