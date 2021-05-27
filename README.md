@@ -12,10 +12,10 @@
     <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
   <a href= "https://www.linkedin.com/in/maford/">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/color/40/000000/linkedin.png"/>
   </a>
   <a href= "https://twitter.com/michaelford85">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/twitter.png"/>
+    <img src="https://img.icons8.com/ios/30/000000/twitter--v1.png"/>
   </a>
   <a href= "https://mford.io">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
