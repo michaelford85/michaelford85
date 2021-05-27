@@ -17,10 +17,6 @@
   <img height="175" title="My Work" src="images/ckad.png">
 </p> -->
 - [Certified Kubernetes Application Developer](https://www.credly.com/badges/eab9de0c-9af9-400e-898a-b4a9244cd2a4/public_url)
-<p align="left">
-<img src="images/aws-sa-associate.png" alt="AWS Certified Solutions Architect – Associate"
-	title="AWS Certified Solutions Architect – Associate" width="800" />
-</p>
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/76b44f4a-6a6e-4cda-9676-a9b2b82220de/public_url)
 
 <img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/michaelford85?style=social">
