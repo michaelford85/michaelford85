@@ -19,17 +19,14 @@
   </a>
 </p>
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm a Principal Solutions Architect based in Chicago.
 
 
 ##### BIO
 
 - 🏢 I'm currently working at **Red Hat**
-- 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Learning all about **Kubernetes and Cloud-native tech**
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
+- ⚡️ I love kettlebelling, BBQ, and Coffee.
 
 
 <img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/michaelford85?label=@michaelford85">
