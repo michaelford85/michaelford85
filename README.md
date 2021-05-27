@@ -14,7 +14,7 @@
 
 #####Certifications
 
-<a href="https://www.credly.com/badges/eab9de0c-9af9-400e-898a-b4a9244cd2a4/public_url"><img align="left" src="images/ckad.png" alt="CKAD" /></a>
+<a href="https://www.credly.com/badges/eab9de0c-9af9-400e-898a-b4a9244cd2a4/public_url"><img align="left" src="images/ckad.png"/></a>
 
 
 <img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/michaelford85?style=social">
