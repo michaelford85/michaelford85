@@ -12,9 +12,14 @@
 - ⚡️ I love Kettlebelling, BBQ, and Coffee.
 - ✔️ You can see my body of work (talks, blog entries, projects) [here](https://github.com/michaelford85/my-work).
 
-#####Certifications
-
+##### Certifications
+<p align="left">
+  <img height="175" title="My Work" src="images/ckad.png">
+</p>
 - [Certified Kubernetes Application Developer](https://www.credly.com/badges/eab9de0c-9af9-400e-898a-b4a9244cd2a4/public_url)
+<p align="left">
+  <img height="175" title="My Work" src="images/aws-sa-associate.png">
+</p>
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/76b44f4a-6a6e-4cda-9676-a9b2b82220de/public_url)
 
 <img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/michaelford85?style=social">
