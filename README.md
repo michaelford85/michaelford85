@@ -8,7 +8,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **Red Hat**
-- 🌱 Learning all about **Kubernetes and Cloud-native tech**
+- 🌱 Working with **Automation, Kubernetes and Cloud-native tech**
 - ⚡️ I love Kettlebelling, BBQ, and Coffee.
 - ✔️ You can see my body of work (talks, blog entries, projects) [here](https://github.com/michaelford85/my-work).
 
