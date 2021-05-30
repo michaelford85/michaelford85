@@ -2,13 +2,12 @@
 
 
 ### Hi there 👋
-#### I'm a Principal Solutions Architect based in Chicago.
 
 
 ##### BIO
 
-- 🏢 I'm currently working at **Red Hat**
-- 🌱 Working with **Automation, Kubernetes and Cloud-native tech**
+- 🏢 I'm a Principal Solutions Architect based in Chicago.
+- 🌱 I'm working with **Automation, Kubernetes and Cloud-native tech**
 - ⚡️ I love Kettlebelling, BBQ, and Coffee.
 - ✔️ You can see my body of work (talks, blog entries, projects) [here](https://github.com/michaelford85/my-work).
 
