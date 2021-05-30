@@ -12,16 +12,16 @@
 - ✔️ You can see my body of work (talks, blog entries, projects) [here](https://github.com/michaelford85/my-work).
 
 ##### Certifications
-- [Certified Kubernetes Application Developer](https://www.credly.com/badges/eab9de0c-9af9-400e-898a-b4a9244cd2a4/public_url)
-- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/76b44f4a-6a6e-4cda-9676-a9b2b82220de/public_url)
-
-
 <a href="https://www.credly.com/badges/eab9de0c-9af9-400e-898a-b4a9244cd2a4/public_url">
   <img height="150" title="CKAD" src="images/ckad.png">
 </a>
 <a href="https://www.credly.com/badges/76b44f4a-6a6e-4cda-9676-a9b2b82220de/public_url">
   <img height="150" title="CKAD" src="images/aws-sa-associate.png">
-</a>
+</a>  
+
+
+
+
 
 <img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/michaelford85?style=social">
 <a href="https://linkedin.com/in/maford"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="maford" /></a>
