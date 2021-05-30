@@ -16,7 +16,7 @@
 - [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/76b44f4a-6a6e-4cda-9676-a9b2b82220de/public_url)
 
 
-<img height="175" title="CKAD" src="images/ckad.png">
+<img height="150" title="CKAD" src="images/ckad.png"> <img height="150" title="CKAD" src="images/aws-sa-associate.png">
 
 <img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/michaelford85?style=social">
 <a href="https://linkedin.com/in/maford"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="maford" /></a>
