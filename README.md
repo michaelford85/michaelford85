@@ -17,7 +17,8 @@
 </a>
 <a href="https://www.credly.com/badges/76b44f4a-6a6e-4cda-9676-a9b2b82220de/public_url">
   <img height="150" title="CKAD" src="images/aws-sa-associate.png">
-</a>  
+</a>     
+ 
 
 
 <img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/michaelford85?style=social">
