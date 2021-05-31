@@ -4,14 +4,14 @@
 ### Hi there 👋
 
 
-##### Bio:
+#### Bio:
 
 - 🏢 I'm a Principal Solutions Architect based in Chicago.
 - 🌱 I'm working with **Automation, Kubernetes and Cloud-native tech**
 - ⚡️ I love Kettlebelling, practicing BBQ techniques, and Coffee brewing.
 - ✔️ You can see my body of work (talks, blog entries, projects) [here](https://github.com/michaelford85/my-work).
 
-##### Certifications:
+#### Certifications:
 <a href="https://www.credly.com/badges/eab9de0c-9af9-400e-898a-b4a9244cd2a4/public_url">
   <img height="125" title="CKAD" src="images/ckad.png">
 </a>
@@ -20,7 +20,7 @@
 </a>     
 
 
-##### Connect with me:  
+#### Connect with me:  
 
 <a href="https://twitter.com/intent/follow?screen_name=michaelford85"><img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/michaelford85?style=social" /></a>
 
