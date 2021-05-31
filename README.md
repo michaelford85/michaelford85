@@ -21,9 +21,11 @@
 
 
 
-<img style="vertical-align:bottom" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/michaelford85?style=social">
+<a href="https://twitter.com/intent/follow?screen_name=michaelford85"><img align="left" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/michaelford85?style=social" /></a>
+
 <a href="https://linkedin.com/in/maford"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="maford" /></a>
-<img align="right" src="https://komarev.com/ghpvc/?username=michaelford85&label=Views&style=plastic&color=orange">
+
+<img align="right" src="https://komarev.com/ghpvc/?username=michaelford85&label=Views&style=plastic&color=orange"/>
 
 
 <!--
