@@ -12,6 +12,9 @@
 - ✔️ You can see my body of work (talks, blog entries, projects) [here](https://github.com/michaelford85/my-work).
 
 #### Certifications:
+<a href="https://www.credly.com/badges/31c73e61-9a5e-4a07-8249-a11fb51f1a77/public_url">
+  <img height="125" title="CKA" src="images/cka.png">
+</a>
 <a href="https://www.credly.com/badges/eab9de0c-9af9-400e-898a-b4a9244cd2a4/public_url">
   <img height="125" title="CKAD" src="images/ckad.png">
 </a>
