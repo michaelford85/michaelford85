@@ -6,7 +6,7 @@
 
 #### Bio:
 
-- 🏢 I'm a Principal Solutions Architect based in Chicago.
+- 🏢 I'm a Solutions Architect Manager based in Chicago.
 - 🌱 I'm working with **Automation, Kubernetes and Cloud-native tech**
 - ⚡️ I love Kettlebelling, practicing BBQ techniques, and Coffee brewing.
 - ✔️ You can see my body of work (talks, blog entries, projects) [here](https://github.com/michaelford85/my-work).
